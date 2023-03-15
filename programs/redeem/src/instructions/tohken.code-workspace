@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../tohken2"
+		},
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "../../../../../main_timer"
+		},
+		{
+			"path": "../../../../../mobile-wallet-adapter"
+		},
+		{
+			"path": "../../../../../nc-staking"
+		}
+	],
+	"settings": {}
+}
